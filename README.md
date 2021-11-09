@@ -5,7 +5,7 @@
 ### Install
 
 ```
-npm i --save sequelize
+npm i git+https://github.com/Chris9540/nuxt-serve.git
 ```
 
 ### Add to package.json
