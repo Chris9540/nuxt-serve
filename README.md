@@ -14,7 +14,7 @@ npm i git+https://github.com/Chris9540/nuxt-serve.git
 "scripts" : {
   "init-nuxt-serve": "node ./node_modules/nuxt-serve/lib/scaffolding/init.js",
   "add-service": "node ./node_modules/nuxt-serve/script/generate-service.js",
-  "add-model": "node ./node_modules/nuxt-serve/script/generate-model.js"
+  "add-model": "node ./node_modules/nuxt-serve/script/generate-model.js",
   "add-new": "node ./node_modules/nuxt-serve/script/generate-service-and-model.js"
 }
 ```
